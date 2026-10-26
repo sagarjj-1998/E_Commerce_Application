@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$APPLICATION_HOME_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$APPLICATION_HOME_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Infrastructure/admin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Infrastructure/admin-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Infrastructure/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Infrastructure/api-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Infrastructure/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Infrastructure/config-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Infrastructure/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Infrastructure/eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Infrastructure/zipkin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Infrastructure/zipkin-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Microservices/inventory-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Microservices/inventory-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Microservices/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Microservices/order-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Microservices/payment-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Microservices/payment-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Microservices/product-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Microservices/product-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Microservices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Microservices/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Microservices/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Microservices/user-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
